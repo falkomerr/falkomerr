@@ -1,6 +1,5 @@
-Hey there!👋
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia 🇷🇺.
-
+<p>Hey there!👋</p>
+<p>I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.</p>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
