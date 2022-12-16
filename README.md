@@ -1,6 +1,6 @@
 <p>Hey there!👋</p>
 <p>I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.</p>
-
+<hr/>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -16,9 +16,10 @@
 </div>
 
 ### :fire: My Stats :
-<div>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=f41k0m3r&theme=dark&background=000000)](https://git.io/streak-stats)</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=f41k0m3r&theme=dark&background=000000)](https://git.io/streak-stats)
+<hr/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f41k0m3r)](https://github.com/anuraghazra/github-readme-stats)
-
+<hr/>
 My socials 📫:
 <div id="badges">
   <a href="https://t.me/falkomer">
