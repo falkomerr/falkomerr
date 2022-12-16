@@ -23,13 +23,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f41k0m3r)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
-My socials 📫:
-<div id="badges">
+📫 My socials:
+<div id="badges" style="display:flex, flex-direction:column">
   <a href="https://t.me/falkomer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="50" height="50" alt="tg Badge"/>
   </a>
   <a href="https://vk.com/f4lkomer">
-    <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" width="50" height="50"  alt="vk Badge"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/VK_logo.svg/2048px-VK_logo.svg.png" width="50" height="50"  alt="vk Badge"/>
   </a>
 </div>
 <div id="header" align="center">
