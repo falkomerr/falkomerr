@@ -26,10 +26,10 @@
 My socials 📫:
 <div id="badges">
   <a href="https://t.me/falkomer">
-    <img src="https://img.shields.io/badge/Telegramm-blue?style=for-the-badge&logo=tg&logoColor=white" alt="tg Badge"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="50" height="50" alt="tg Badge"/>
   </a>
   <a href="https://vk.com/f4lkomer">
-    <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>
+    <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" width="50" height="50"  alt="vk Badge"/>
   </a>
 </div>
 <div id="header" align="center">
