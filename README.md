@@ -37,7 +37,7 @@
     <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="40" height="40"/>
-    <img style="background-color:rgba(255,255,255,.5); border-radius:6px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40" height="40"/>
+    <img class="whiteBG" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40" height="40"/>
 </div>
 
 <div align="center">
@@ -49,3 +49,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=F41k0m3r&theme=monokai&utcOffset=8)
 
 </div>
+
+<style>
+    .whiteBG {
+        background-color:rgba(255,255,255,.5); 
+        border-radius:6px";
+    }
+</style>
