@@ -5,7 +5,7 @@
 
 <div id="socials" align="center">
 	<a href="https://t.me/Falkomer">
-		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="60px" height="60px" alt="Telegram"/>
 	</a>
 </div>
 
