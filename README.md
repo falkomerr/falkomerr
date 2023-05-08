@@ -8,7 +8,7 @@
 		<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="70px" height="70px" alt="Telegram"/>
 	</a>
 	
-	<a href="https://discordapp.com/users/748299471556706324/">
+	<a href="https://goo.su/VRz0tz">
 		<img src="https://cdn.worldvectorlogo.com/logos/discord.svg" width="70px" height="70px" alt="Discord"/>
 	</a>
 </div>
@@ -53,10 +53,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=F41k0m3r&theme=monokai&utcOffset=8)
 
 </div>
-
-<style>
-    .whiteBG {
-        background-color:rgba(255,255,255,.5); 
-        border-radius:6px";
-    }
-</style>
