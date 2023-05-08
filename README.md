@@ -22,7 +22,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" />
     <img src="https://cdn.worldvectorlogo.com/logos/mobx.svg" width="40" height="40"/>
 </div>
-
 <div align="center">
     <h3>Tools</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
@@ -31,6 +30,14 @@
     <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
+    <img src="https://www.svgrepo.com/show/353904/insomnia.svg" width="40" height="40"/>
+</div>
+<div align="center">
+    <h3>Back-End</h3>
+    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40" height="40"/>
 </div>
 
 <div align="center">
