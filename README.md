@@ -1,9 +1,11 @@
 <div id="header" align="center" >
 	<h1>Hi 👋, I'm Falkomer</h1>
 	<h3>Frontend Developer</h3>
+	<hr/>
 </div>
 
 <div id="socials" align="center">
+	<h3>My socials</h3>
 	<a href="https://t.me/Falkomer">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="70px" height="70px" alt="Telegram"/>
 	</a>
