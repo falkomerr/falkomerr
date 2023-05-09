@@ -10,9 +10,7 @@
 		<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="70px" height="70px" alt="Telegram"/>
 	</a>
 </div>
-
-
-
+<hr/>
 <div align="center">
     <h3>Front-End</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
@@ -41,7 +39,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50" height="50"/>
     <img class="whiteBG" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="50" height="50"/>
 </div>
-
+<hr/>
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F41k0m3r&theme=monokai)
