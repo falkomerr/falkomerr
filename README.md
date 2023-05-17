@@ -6,7 +6,7 @@
 
 <div id="socials" align="center">
 	<h3>My socials</h3>
-	<a href="https://t.me/Falkomer">
+	<a href="https://t.me/f41kom3r">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="70px" height="70px" alt="Telegram"/>
 	</a>
 </div>
