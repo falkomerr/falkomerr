@@ -14,6 +14,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  width="50" height="50" />
     <img src="https://cdn.worldvectorlogo.com/logos/mobx.svg" width="50" height="50"/>
 </div>
 <div align="center">
@@ -26,6 +27,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50" />
     <img src="https://www.svgrepo.com/show/353904/insomnia.svg" width="50" height="50" color="white"/>
     <img src="https://www.svgrepo.com/show/349342/docker.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"  width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"   width="50" height="50" />
+
 </div>
 <div align="center">
     <h3>Back-End</h3>
@@ -33,6 +37,8 @@
     <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50" height="50"/>
     <img src="https://www.svgrepo.com/show/354210/prisma.svg" width="50" height="50"/>
     <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" width="50" height="50"/>
     <img class="whiteBG" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="50" height="50"/>
 </div>
 <hr/>
