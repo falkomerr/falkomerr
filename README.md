@@ -1,4 +1,4 @@
-![image](https://github.com/falkomerr/falkomerr/assets/105551615/f55f83f6-8419-4d66-ab58-f2f5a6c51576)<div id="header" align="center" >
+<div id="header" align="center" >
 	<h1>Hi 👋, I'm Falkomer</h1>
 	<h3>Middle frontend developer</h3>
 	<hr/>
