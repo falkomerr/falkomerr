@@ -1,4 +1,4 @@
-<div id="header" align="center" >
+![image](https://github.com/falkomerr/falkomerr/assets/105551615/f55f83f6-8419-4d66-ab58-f2f5a6c51576)<div id="header" align="center" >
 	<h1>Hi 👋, I'm Falkomer</h1>
 	<h3>Middle frontend developer</h3>
 	<hr/>
@@ -38,10 +38,10 @@
 <hr/>
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F41k0m3r&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=F41k0m3r&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=F41k0m3r&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=F41k0m3r&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=F41k0m3r&theme=monokai&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=falkomerr&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=falkomerr&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=falkomerr&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=falkomerr&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=falkomerr&theme=monokai&utcOffset=8)
 
 </div>
