@@ -57,6 +57,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=falkomerr&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=falkomerr&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=falkomerr&theme=monokai&utcOffset=8)
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=falkomerr&theme=merko&hide_border=true&locale=ru&date_format=M%20j%5B%2C%20Y%5D&background=07086A&stroke=0711DD&ring=DD9124&fire=DD6519)](https://git.io/streak-stats)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=falkomerr&theme=merko&hide_border=true&locale=ru&date_format=M%20j%5B%2C%20Y%5D&background=07086A&stroke=0711DD&ring=DD9124&fire=DD6519)](https://git.io/streak-stats)  
 
 </div>
