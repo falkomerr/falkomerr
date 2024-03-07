@@ -16,9 +16,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" />
+    <br/>
     <img src="https://effector.dev/favicon.svg" width="50" height="50" />
     <img src="https://www.react-hook-form.com/favicon-32x32.png?v=33dbda822526f0cf9f02a335ee65d925" width="50" height="50" />
-    <br/>
     <img src="https://tailwindcss.com/favicons/favicon.ico?v=3" width="50" height="50" />	
     <img src="https://ui.shadcn.com/favicon.ico" width="50" height="50" />	
     <img src="https://mantine.dev/favicon.svg" width="50" height="50" />	
