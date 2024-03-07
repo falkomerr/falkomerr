@@ -18,6 +18,7 @@
     <img src="https://www.react-hook-form.com/favicon-32x32.png?v=33dbda822526f0cf9f02a335ee65d925" width="50" height="50" />
     <br/>
     <img src="https://tailwindcss.com/favicons/favicon.ico?v=3" width="50" height="50" />	
+    <img src="https://ui.shadcn.com/favicon.ico" width="50" height="50" />	
     <img src="https://tanstack.com/favicon.ico" width="50" height="50" />	
     <img src="https://zod.dev/logo.svg" width="50" height="50" />	
     <img src="https://cdn.worldvectorlogo.com/logos/mobx.svg" width="50" height="50"/>
@@ -32,6 +33,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50" />
     <img src="https://www.svgrepo.com/show/353904/insomnia.svg" width="50" height="50" color="white"/>
     <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="50" height="50"/>
+    <br/>
     <img src="https://www.svgrepo.com/show/349342/docker.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"  width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"   width="50" height="50" />
