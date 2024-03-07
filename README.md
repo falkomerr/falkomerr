@@ -16,7 +16,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" />
     <img src="https://effector.dev/favicon.svg" width="50" height="50" />	
     <img src="https://tanstack.com/favicon.ico" width="50" height="50" />	
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  width="50" height="50" />
     <img src="https://cdn.worldvectorlogo.com/logos/mobx.svg" width="50" height="50"/>
 </div>
 <div align="center">
