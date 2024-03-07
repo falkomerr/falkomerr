@@ -19,6 +19,7 @@
     <br/>
     <img src="https://tailwindcss.com/favicons/favicon.ico?v=3" width="50" height="50" />	
     <img src="https://ui.shadcn.com/favicon.ico" width="50" height="50" />	
+    <img src="https://mantine.dev/favicon.svg" width="50" height="50" />	
     <img src="https://tanstack.com/favicon.ico" width="50" height="50" />	
     <img src="https://zod.dev/logo.svg" width="50" height="50" />	
     <img src="https://cdn.worldvectorlogo.com/logos/mobx.svg" width="50" height="50"/>
