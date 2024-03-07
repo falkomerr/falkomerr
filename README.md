@@ -1,3 +1,9 @@
+<style>
+	body {
+		background: '#2C292D';
+	}
+</style>
+
 <div id="header" align="center" >
 	<h1>Hi 👋, I'm Falkomer</h1>
 	<h3>Middle frontend developer</h3>
